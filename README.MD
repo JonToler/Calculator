@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a little JavaScript program, which add two numbers together.
+_This is a little JavaScript program, which add two numbers together..
 ## Known Bugs
 
 _N/A_
